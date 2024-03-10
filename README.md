@@ -37,9 +37,9 @@ Other |	✗ |	✗ |	✗ |	✗ | 	✗
 
 We provide a public DNS IP for each common browser entrypoint present on the Switch:
 
-**Webapplet (Fake News, 1.0 JP Puyo Puyo Tetris)**: \[Currently missing\]
+**Webapplet (Fake News, 1.0 JP Puyo Puyo Tetris)**: `144.24.47.134`
 
-**Wifi Authentication Prompt**:	`144.24.47.134`
+**Wifi Authentication Prompt**: \[Currently missing\]
 
 Note that these public DNS servers run the 90DNS configuration. This means that the connection test will pass (for the Webapplet server) and you can use homebrew with internet functionality, but you will not be able to connect to Nintendo services.
 
