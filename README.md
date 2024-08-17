@@ -37,7 +37,7 @@ Other |	✗ |	✗ |	✗ |	✗ | 	✗
 
 We provide a public DNS IP for each common browser entrypoint present on the Switch:
 
-**Webapplet (Fake News, 1.0 JP Puyo Puyo Tetris)**: `144.24.47.134`
+**Webapplet (Fake News, 1.0 JP Puyo Puyo Tetris)**: \[Currently missing\]
 
 **Wifi Authentication Prompt**: \[Currently missing\]
 
